@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Sou estudante de Ciência da Computação no 3° período na Estácio de Sá, RJ. Estou focado em me preparar para conquistar minha primeira oportunidade de estágio ou emprego na área de tecnologia. Atualmente, estou aprofundando meus estudos em Spring Boot, PHP, MySQL e Swing, além de me dedicar ao desenvolvimento de programas e à criação de jogos utilizando GameMaker GML. Estou sempre em busca de aprimorar minhas habilidades e explorar novas áreas da tecnologia para me tornar um profissional versátil e preparado para os desafios do mercado.</p>
+<p align="center">Sou estudante de Ciência da Computação no 3° período na Estácio de Sá, RJ. Estou focado em me preparar para conquistar minha primeira oportunidade de estágio ou emprego na área de tecnologia. Atualmente, estou aprofundando meus estudos em Spring Boot, PHP, MySQL e Swing, além de me dedicar ao desenvolvimento de programas e à criação de jogos utilizando GameMaker GML e C++. Estou sempre em busca de aprimorar minhas habilidades e explorar novas áreas da tecnologia para me tornar um profissional versátil e preparado para os desafios do mercado.</p>
 
 #
 
