@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Sou estudante do 4º período de Ciência da Computação, com conhecimento intermediário em C++ e Java, focado em Spring Boot para o desenvolvimento de aplicações backend. Atualmente, estou me aprofundando em bibliotecas de C++, como OpenGL, voltadas para computação gráfica, além de interfaces gráficas como GTK e QT. Também possuo experiência prática em montagem de computadores, o que me proporciona uma visão abrangente de hardware e software. Busco uma oportunidade de estágio ou emprego onde possa aplicar meus conhecimentos, enfrentar desafios reais e colaborar com equipes de desenvolvimento.</p>
+<p align="center">I am a 4th period Computer Science student, with intermediate knowledge in C++ and Java, focused on Spring Boot for developing backend applications. Currently, I'm delving deeper into C++ libraries, like OpenGL, external to computer graphics, as well as graphical interfaces like GTK and QT. I also have practical experience in assembling computers, which gives me a comprehensive view of hardware and software. I'm looking for an internship or job opportunity where I can apply my knowledge, face real challenges and collaborate with development teams.</p>
 
 #
 
