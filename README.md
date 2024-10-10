@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Sou estudante de Ciência da Computação no 3° período na Estácio de Sá, RJ. Estou focado em me preparar para conquistar minha primeira oportunidade de estágio ou emprego na área de tecnologia. Atualmente, estou aprofundando meus estudos em Spring Boot, PHP, MySQL e Swing, além de me dedicar ao desenvolvimento de programas e à criação de jogos utilizando GameMaker GML e C++. Estou sempre em busca de aprimorar minhas habilidades e explorar novas áreas da tecnologia para me tornar um profissional versátil e preparado para os desafios do mercado.</p>
+<p align="center">Sou estudante do 4º período de Ciência da Computação, com conhecimento intermediário em C++ e Java, focado em Spring Boot para o desenvolvimento de aplicações backend. Atualmente, estou me aprofundando em bibliotecas de C++, como OpenGL, voltadas para computação gráfica, além de interfaces gráficas como GTK e QT. Também possuo experiência prática em montagem de computadores, o que me proporciona uma visão abrangente de hardware e software. Busco uma oportunidade de estágio ou emprego onde possa aplicar meus conhecimentos, enfrentar desafios reais e colaborar com equipes de desenvolvimento.</p>
 
 #
 
