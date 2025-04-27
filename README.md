@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/head.gif" width="600">
+<img align="center" alt="" src="./src/head.gif" width="700">
 
 #
 
