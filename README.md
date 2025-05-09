@@ -1,4 +1,13 @@
 <div align="center">
+  <h1 style="color: #00BFFF; font-size: 2em; animation: fadeIn 3s ease-in-out infinite alternate;">Olá, eu sou Ronny</h1>
+
+  <style>
+    @keyframes fadeIn {
+      0% { opacity: 0; transform: translateY(-10px); }
+      100% { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+
   <img src="./src/head.gif" alt="Cabeça animada" width="60%" style="max-width: 500px;"><br><br>
 
   <h3>🌐 Meu Portfólio</h3>
@@ -71,13 +80,12 @@
 
 ### 🤝 Conecte-se comigo
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00BFFF&color:FFF)](mailto:ronaldespertosoares@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF&color:FFF)](https://www.linkedin.com/in/ronald-soares-4510ab1a2/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00BFFF&color:FFF)](mailto:ronaldespertosoares@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF&color:FFF)](https://www.linkedin.com/in/ronald-soares-4510ab1a2/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00BFFF&color:FFF)](https://www.instagram.com/ronny_rocke/)
 
 ---
 
 ### 🏆 Troféus do GitHub
 
- ![Troféus](https://github-profile-trophy.vercel.app/?username=RonnyRocke&theme=onedark)
----
+![Troféus](https://github-profile-trophy.vercel.app/?username=RonnyRocke&theme=onedark)
