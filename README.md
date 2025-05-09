@@ -1,6 +1,7 @@
-<!-- Animação de saudação -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Olá%2C+eu+sou+Ronny!;Bem-vindo+ao+meu+perfil+GitHub!" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=524&lines=hi,+i+am+Ronny+%3A%29" alt="Typing SVG">
+  </a>
 </div>
 
 
