@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./src/head.gif" alt="Cabeça animada" width="90%" style="max-width: 500px;"><br><br>
+  <img src="./src/head.gif" alt="Cabeça animada" width="90%" style="max-width: 300px;"><br><br>
 
   <h3>🌐 Meu Portfólio</h3>
   <a href="https://ronnyrocke.github.io/.-portfolioronny" target="_blank">ronnyrocke.github.io/.-portfolioronny</a><br><br>
