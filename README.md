@@ -18,7 +18,6 @@
     <img src="./src/rickmorty.gif" alt="Rick and Morty" width="150">
   </div>
 </div>
-
 <br clear="both" />
 
 #
