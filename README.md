@@ -1,7 +1,3 @@
-
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg) 
-
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=524&lines=hi,+i+am+Ronny+%3A%29" alt="Typing SVG">
@@ -12,9 +8,9 @@
 
 #
 
-<p align="center">I am a 4th period Computer Science student, with intermediate knowledge in C++ and Java, focused on Spring Boot for developing backend applications. Currently, I'm delving deeper into C++ libraries, like OpenGL, external to computer graphics, as well as graphical interfaces like GTK and QT. I also have practical experience in assembling computers, which gives me a comprehensive view of hardware and software. I'm looking for an internship or job opportunity where I can apply my knowledge, face real challenges and collaborate with development teams.</p>
-
-#
+<p align="center">
+  I am a 4th period Computer Science student, with intermediate knowledge in C++ and Java, focused on Spring Boot for developing backend applications. Currently, I'm delving deeper into C++ libraries, like OpenGL, external to computer graphics, as well as graphical interfaces like GTK and QT. I also have practical experience in assembling computers, which gives me a comprehensive view of hardware and software. I'm looking for an internship or job opportunity where I can apply my knowledge, face real challenges and collaborate with development teams.
+</p>
 
 <img align="right" alt="" height="190px" src="./src/computer.gif">
 
@@ -50,19 +46,30 @@
 
 #
 
+### 🐍 Contribution Snake Animation
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture> 
+</picture>
 
-## 🏆 Conquistas
+#
+
+### 🧱 3D Contribution Graph
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+#
+
+## 🏆 GitHub Trophies
 
 ![Troféus](https://github-profile-trophy.vercel.app/?username=RonnyRocke&theme=onedark)
 
----
+#
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonnyRocke&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyRocke&layout=compact&theme=radical&hide=c)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyRocke&layout=compact&theme=radical&hide=c)
+
