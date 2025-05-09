@@ -8,7 +8,15 @@
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<img align="center" alt="" src="./src/head.gif" width="500">
+<div align="center">
+  <img align="left" alt="" src="./src/head.gif" width="500">
+  <div align="right">
+    <h3>🌐 My Portfolio</h3>
+    <a href="https://ronnyrocke.github.io/.-portfolioronny" target="_blank">ronnyrocke.github.io/.-portfolioronny</a>
+  </div>
+</div>
+
+<br clear="both" />
 
 #
 
@@ -70,9 +78,3 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonnyRocke&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyRocke&layout=compact&theme=radical&hide=c)
-
-#
-
-## 🌐 My Portfolio
-
-🔗 [ronnyrocke.github.io/.-portfolioronny](https://ronnyrocke.github.io/.-portfolioronny)
