@@ -7,25 +7,28 @@
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
-  <img align="left" alt="Cabeça animada" src="./src/head.gif" width="500">
-  <div align="right">
-    <h3>🌐 Meu Portfólio</h3>
-    <a href="https://ronnyrocke.github.io/.-portfolioronny" target="_blank">ronnyrocke.github.io/.-portfolioronny</a>
-    <br><br>
-    <img src="./src/rickmorty.gif" alt="Rick and Morty" width="150"><br>
-    <img src="./src/g0LgXzF.gif" alt="Rick Animado" width="150">
-  </div>
+  <img src="./src/head.gif" alt="Cabeça animada" width="90%" style="max-width: 500px;"><br><br>
+
+  <h3>🌐 Meu Portfólio</h3>
+  <a href="https://ronnyrocke.github.io/.-portfolioronny" target="_blank">ronnyrocke.github.io/.-portfolioronny</a><br><br>
+
+  <img src="./src/rickmorty.gif" alt="Rick and Morty" width="150">
+  <img src="./src/g0LgXzF.gif" alt="Rick Animado" width="150">
 </div>
 
-<br clear="both" />
+<br/>
 
-#
+---
 
 <p align="center">
   Sou estudante do 4º período de Ciência da Computação, com conhecimento intermediário em C++ e Java, focado em Spring Boot para desenvolvimento de aplicações backend. Atualmente, estou me aprofundando em bibliotecas C++ como OpenGL, voltadas para computação gráfica, e interfaces gráficas como GTK e QT. Também tenho experiência prática com montagem de computadores, o que me dá uma visão ampla de hardware e software. Estou em busca de uma oportunidade de estágio ou emprego onde eu possa aplicar meus conhecimentos, enfrentar desafios reais e colaborar com equipes de desenvolvimento.
 </p>
 
-<img align="right" alt="gif computador" height="190px" src="./src/computer.gif">
+<p align="center">
+  <img src="./src/computer.gif" alt="gif computador" height="190px">
+</p>
+
+---
 
 ### 🤝 Conecte-se comigo
 
@@ -33,45 +36,49 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF&color:FFF)](https://www.linkedin.com/in/ronald-soares-4510ab1a2/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00BFFF&color:FFF)](https://www.instagram.com/ronny_rocke/)
 
+---
+
 ### 💻 Tecnologias que uso
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" />
 </div>
 
-#
+---
 
-<picture align="center">
+### 🐍 Animação de contribuições
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="animação do gráfico de contribuição" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <img alt="animação do gráfico de contribuição" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
-#
+---
 
 ## 🏆 Troféus do GitHub
 
 ![Troféus](https://github-profile-trophy.vercel.app/?username=RonnyRocke&theme=onedark)
 
-#
+---
 
 ## 📊 Estatísticas do GitHub
 
