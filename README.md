@@ -79,6 +79,5 @@
 
 ### 🏆 Troféus do GitHub
 
-![Troféus](https://github-profile-trophy.vercel.app/?username=RonnyRocke&theme=purple&column=8&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title=neon&icon=purple)
-
+ ![Troféus](https://github-profile-trophy.vercel.app/?username=RonnyRocke&theme=onedark)
 ---
