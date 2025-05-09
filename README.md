@@ -1,12 +1,4 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&random=false&width=524&lines=ol%C3%A1,+meu+nome+%C3%A9+Ronny+%3A%29" alt="Typing SVG">
-  </a>
-</div>
-
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
-
-<div align="center">
   <img src="./src/head.gif" alt="Cabeça animada" width="90%" style="max-width: 500px;"><br><br>
 
   <h3>🌐 Meu Portfólio</h3>
@@ -30,11 +22,14 @@
 
 ---
 
-### 🤝 Conecte-se comigo
+### 📊 Estatísticas do GitHub
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00BFFF&color:FFF)](mailto:ronaldespertosoares@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF&color:FFF)](https://www.linkedin.com/in/ronald-soares-4510ab1a2/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00BFFF&color:FFF)](https://www.instagram.com/ronny_rocke/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RonnyRocke&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyRocke&layout=compact&theme=radical&hide=c&card_width=500&langs_count=8&hide_border=true&border_color=purple&border_radius=10&title_color=purple&icon_color=purple&text_color=white&bg_color=rgba(0,0,0,0.1)" alt="Linguagens Mais Usadas">
+</div>
+
+<br/>
 
 ---
 
@@ -64,7 +59,6 @@
 
 ---
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
@@ -73,13 +67,20 @@
 
 ---
 
-## 🏆 Troféus do GitHub
+### 🤝 Conecte-se comigo
 
-![Troféus](https://github-profile-trophy.vercel.app/?username=RonnyRocke&theme=onedark)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=00BFFF&color:FFF)](mailto:ronaldespertosoares@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00BFFF&color:FFF)](https://www.linkedin.com/in/ronald-soares-4510ab1a2/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=00BFFF&color:FFF)](https://www.instagram.com/ronny_rocke/)
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 🏆 Troféus do GitHub
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=RonnyRocke&show_icons=true&theme=radical&locale=pt-br)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyRocke&layout=compact&theme=radical&hide=c)
+![Troféus](https://github-profile-trophy.vercel.app/?username=RonnyRocke&theme=radical&column=8&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title=neon&icon=purple)
+
+---
+
+### 🐍 Cobrinha de Contribuições no GitHub
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
