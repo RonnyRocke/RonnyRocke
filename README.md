@@ -4,7 +4,11 @@
   </a>
 </div>
 
-<img align="center" alt="" src="./src/head.gif" width="700">
+### 🧱 3D Contribution Graph
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<img align="center" alt="" src="./src/head.gif" width="500">
 
 #
 
@@ -56,12 +60,6 @@
 
 #
 
-### 🧱 3D Contribution Graph
-
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
-
-#
-
 ## 🏆 GitHub Trophies
 
 ![Troféus](https://github-profile-trophy.vercel.app/?username=RonnyRocke&theme=onedark)
@@ -73,3 +71,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonnyRocke&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyRocke&layout=compact&theme=radical&hide=c)
 
+#
+
+## 🌐 My Portfolio
+
+🔗 [ronnyrocke.github.io/.-portfolioronny](https://ronnyrocke.github.io/.-portfolioronny)
