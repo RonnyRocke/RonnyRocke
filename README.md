@@ -29,12 +29,8 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonnyRocke&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyRocke&layout=compact&theme=radical&hide=c&card_width=500&langs_count=8&hide_border=true&border_color=purple&border_radius=10&title_color=purple&icon_color=purple&text_color=white&bg_color=rgba(0,0,0,0.1)" alt="Linguagens Mais Usadas">
-</div>
+## 📊 Estatísticas do GitHub
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RonnyRocke&show_icons=true&theme=radical&locale=pt-br" alt="Estatísticas GitHub"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonnyRocke&layout=compact&theme=radical&locale=pt-br&title_color=ff00ff&text_color=ffffff&bg_color=000000&border_radius=10" alt="Linguagens mais usadas"> </div>
 
 <br/>
 
