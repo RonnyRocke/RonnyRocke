@@ -7,7 +7,7 @@
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center">
-  <img align="left" alt="" src="./src/head.gif" width="500">
+  <img align="left" alt="Cabeça animada" src="./src/head.gif" width="500">
   <div align="right">
     <h3>🌐 Meu Portfólio</h3>
     <a href="https://ronnyrocke.github.io/.-portfolioronny" target="_blank">ronnyrocke.github.io/.-portfolioronny</a>
@@ -69,7 +69,7 @@
 
 ## 🏆 Troféus do GitHub
 
-![Troféus](https://github-profile-trophy.vercel.app/?username=RonnyRocke&theme=onedark&title=Commit,Repositories,Followers,Stars,PullRequest)
+![Troféus](https://github-profile-trophy.vercel.app/?username=RonnyRocke&theme=onedark)
 
 #
 
