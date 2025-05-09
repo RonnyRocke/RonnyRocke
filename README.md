@@ -33,6 +33,9 @@
 
 ---
 
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
 ### 💻 Tecnologias que uso
 
 <div align="center">
@@ -80,7 +83,3 @@
 ![Troféus](https://github-profile-trophy.vercel.app/?username=RonnyRocke&theme=radical&column=8&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title=neon&icon=purple)
 
 ---
-
-### 🐍 Cobrinha de Contribuições no GitHub
-
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
