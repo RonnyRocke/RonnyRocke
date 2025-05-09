@@ -35,6 +35,9 @@
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
+<br/>
+
+---
 
 ### 💻 Tecnologias que uso
 
