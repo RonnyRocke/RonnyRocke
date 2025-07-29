@@ -79,12 +79,7 @@
 ## 🏆 Troféus do GitHub
 
 <div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=RonnyRocke&theme=onedark&title=Followers,Issue,PullRequest,Reviews&margin-w=40&column=8" 
-    alt="Troféus do GitHub" 
-    width="100%" 
-    style="max-width: 1000px;" 
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=RonnyRocke&theme=onedark&title=MultiLanguage,Commits,Stars,Repositories,Followers&margin-w=15" />
 </div>
 
 
