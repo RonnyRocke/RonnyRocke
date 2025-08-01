@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./src/ronny-dev.gif" alt="Ronny Dev Partículas" height="200">
+  <img src="https://github.com/user-attachments/assets/ac687399-9f01-415b-bac4-202c6971a7d1" alt="Ronny Dev Partículas" height="200">
 </p>
-<div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ronny+%F0%9F%91%8B;Welcome+to+my+GitHub+Universe!+%F0%9F%8C%9F)
 
