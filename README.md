@@ -1,6 +1,5 @@
 <div align="center">
 
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ronny+%F0%9F%91%8B;Welcome+to+my+GitHub+Universe!+%F0%9F%8C%9F)
 
 <img src="./src/head.gif" alt="Cabeça animada" width="60%" style="max-width: 500px;"><br><br>
@@ -19,7 +18,6 @@
 🖥️ Desenvolvo aplicações com .NET (desktop e Web API) usando C# e ASP.NET  
 🗃️ Trabalho com Entity Framework pra acesso a dados  
 📦 Estruturo os projetos em camadas e consumo de APIs REST no dia a dia
-
 
 <p align="center">
   <img src="./src/computer.gif" alt="gif computador" height="190px">
@@ -41,6 +39,13 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<br><br>
+
+<!-- Tecnologias .NET adicionadas -->
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-6DB33F?style=for-the-badge&logo=.net&logoColor=white)
 
 </div>
 
@@ -50,8 +55,8 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ronaldespertosoares@gmail.com-00BFFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldespertosoares@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronald%20Soares-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-soares-4510ab1a2/)
+[![Email](https://img.shields.io/badge/Email-ronaldespertosoares@gmail.com-00BFFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronaldespertosoares@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronald%20Soares-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronald-soares-4510ab1a2/)  
 [![Instagram](https://img.shields.io/badge/Instagram-@ronny_rocke-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ronny_rocke/)
 
 </div>
@@ -85,7 +90,6 @@
     style="max-width: 1000px;" 
   />
 </div>
-
 
 ---
 
