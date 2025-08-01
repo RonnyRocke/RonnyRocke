@@ -16,10 +16,10 @@
 ## 🧠 Sobre mim
 
 <p align="center">
-🎓 Estudante do 4º período de <strong>Ciência da Computação</strong> apaixonado por tecnologia e desenvolvimento.<br>
-🚀 Focado em backend com <strong>Java + Spring Boot</strong> e avançando em computação gráfica com <strong>C++ + OpenGL</strong>.<br>
-🖥️ Também exploro interfaces gráficas com <strong>GTK</strong> e <strong>QT</strong>, e possuo experiência prática com montagem de PCs.<br>
-🤝 Busco uma oportunidade de <strong>estágio ou emprego</strong> para aplicar meus conhecimentos em projetos reais e colaborativos.
+🎓 5º período de Ciência da Computação
+💻 Desenvolvo aplicações com .NET (desktop e Web API) usando C# e ASP.NET
+🗃️ Trabalho com Entity Framework pra acesso a dados
+📦 Estruturo os projetos em camadas e consumo de APIs REST no dia a dia.
 </p>
 
 <p align="center">
