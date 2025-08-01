@@ -1,7 +1,5 @@
 <div align="center">
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d04bfd68-03f2-4f94-806d-ebb4e0bc60c6" alt="partículas subindo" height="150">
-</p>
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ronny+%F0%9F%91%8B;Welcome+to+my+GitHub+Universe!+%F0%9F%8C%9F)
 
