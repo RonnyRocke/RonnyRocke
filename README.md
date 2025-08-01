@@ -15,12 +15,10 @@
 
 ## 🧠 Sobre mim
 
-<p align="center">
-🎓 5º período de Ciência da Computação
-💻 Desenvolvo aplicações com .NET (desktop e Web API) usando C# e ASP.NET
-🗃️ Trabalho com Entity Framework pra acesso a dados
-📦 Estruturo os projetos em camadas e consumo de APIs REST no dia a dia.
-</p>
+📘 5º período de Ciência da Computação
+🧑‍💻 Desenvolvo aplicações com .NET (desktop e Web API) usando C# e ASP.NET
+🗂️ Trabalho com Entity Framework pra acesso a dados
+📦 Estruturo os projetos em camadas e consumo de APIs REST no dia a dia
 
 <p align="center">
   <img src="./src/computer.gif" alt="gif computador" height="190px">
